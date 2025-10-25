@@ -1,0 +1,76 @@
+{
+  "schedule": [
+    {
+      "grade": 9,
+      "section": "A",
+      "monday": ["Math", "English", "Biology", "Chemistry", "Physics", "Civics", "ICT"],
+      "tuesday": ["English", "Math", "Geography", "Amharic", "Chemistry", "History", "PE"],
+      "wednesday": ["Biology", "Math", "Civics", "English", "ICT", "Physics", "Chemistry"],
+      "thursday": ["History", "Biology", "Math", "English", "Amharic", "Geography", "ICT"],
+      "friday": ["Math", "Physics", "Chemistry", "Biology", "PE", "Civics", "English"]
+    },
+    {
+      "grade": 9,
+      "section": "B",
+      "monday": ["English", "Math", "Chemistry", "Biology", "History", "ICT", "Civics"],
+      "tuesday": ["Math", "Physics", "English", "Amharic", "PE", "Chemistry", "Biology"],
+      "wednesday": ["Civics", "Math", "ICT", "Geography", "History", "Biology", "English"],
+      "thursday": ["Math", "English", "Chemistry", "Biology", "Geography", "Physics", "PE"],
+      "friday": ["Math", "English", "Civics", "Chemistry", "Biology", "Amharic", "ICT"]
+    },
+    {
+      "grade": 10,
+      "section": "A",
+      "monday": ["Math", "English", "Chemistry", "Biology", "Physics", "Civics", "ICT"],
+      "tuesday": ["English", "Math", "Geography", "Amharic", "Chemistry", "History", "PE"],
+      "wednesday": ["Biology", "Math", "Civics", "English", "ICT", "Physics", "Chemistry"],
+      "thursday": ["History", "Biology", "Math", "English", "Amharic", "Geography", "ICT"],
+      "friday": ["Math", "Physics", "Chemistry", "Biology", "PE", "Civics", "English"]
+    },
+    {
+      "grade": 10,
+      "section": "B",
+      "monday": ["English", "Math", "Chemistry", "Biology", "History", "ICT", "Civics"],
+      "tuesday": ["Math", "Physics", "English", "Amharic", "PE", "Chemistry", "Biology"],
+      "wednesday": ["Civics", "Math", "ICT", "Geography", "History", "Biology", "English"],
+      "thursday": ["Math", "English", "Chemistry", "Biology", "Geography", "Physics", "PE"],
+      "friday": ["Math", "English", "Civics", "Chemistry", "Biology", "Amharic", "ICT"]
+    },
+    {
+      "grade": 11,
+      "section": "A",
+      "monday": ["Math", "English", "Biology", "Chemistry", "Physics", "Civics", "ICT"],
+      "tuesday": ["English", "Math", "Geography", "Amharic", "Chemistry", "History", "PE"],
+      "wednesday": ["Biology", "Math", "Civics", "English", "ICT", "Physics", "Chemistry"],
+      "thursday": ["History", "Biology", "Math", "English", "Amharic", "Geography", "ICT"],
+      "friday": ["Math", "Physics", "Chemistry", "Biology", "PE", "Civics", "English"]
+    },
+    {
+      "grade": 11,
+      "section": "B",
+      "monday": ["English", "Math", "Chemistry", "Biology", "History", "ICT", "Civics"],
+      "tuesday": ["Math", "Physics", "English", "Amharic", "PE", "Chemistry", "Biology"],
+      "wednesday": ["Civics", "Math", "ICT", "Geography", "History", "Biology", "English"],
+      "thursday": ["Math", "English", "Chemistry", "Biology", "Geography", "Physics", "PE"],
+      "friday": ["Math", "English", "Civics", "Chemistry", "Biology", "Amharic", "ICT"]
+    },
+    {
+      "grade": 12,
+      "section": "A",
+      "monday": ["Math", "English", "Biology", "Chemistry", "Physics", "Civics", "ICT"],
+      "tuesday": ["English", "Math", "Geography", "Amharic", "Chemistry", "History", "PE"],
+      "wednesday": ["Biology", "Math", "Civics", "English", "ICT", "Physics", "Chemistry"],
+      "thursday": ["History", "Biology", "Math", "English", "Amharic", "Geography", "ICT"],
+      "friday": ["Math", "Physics", "Chemistry", "Biology", "PE", "Civics", "English"]
+    },
+    {
+      "grade": 12,
+      "section": "B",
+      "monday": ["English", "Math", "Chemistry", "Biology", "History", "ICT", "Civics"],
+      "tuesday": ["Math", "Physics", "English", "Amharic", "PE", "Chemistry", "Biology"],
+      "wednesday": ["Civics", "Math", "ICT", "Geography", "History", "Biology", "English"],
+      "thursday": ["Math", "English", "Chemistry", "Biology", "Geography", "Physics", "PE"],
+      "friday": ["Math", "English", "Civics", "Chemistry", "Biology", "Amharic", "ICT"]
+    }
+  ]
+}
