@@ -1,0 +1,76 @@
+{
+  "schedule": [
+    {
+      "grade": 9,
+      "section": "A",
+      "monday": ["Math", "English", "Civics", "Physics"],
+      "tuesday": ["Biology", "Chemistry", "Math", "ICT"],
+      "wednesday": ["Geography", "English", "PE", "Amharic"],
+      "thursday": ["Math", "Biology", "Civics", "Physics"],
+      "friday": ["History", "Chemistry", "English", "ICT"]
+    },
+    {
+      "grade": 9,
+      "section": "B",
+      "monday": ["Math", "Biology", "Civics", "Chemistry"],
+      "tuesday": ["English", "Physics", "History", "ICT"],
+      "wednesday": ["Geography", "Math", "PE", "Amharic"],
+      "thursday": ["Chemistry", "Biology", "Civics", "English"],
+      "friday": ["History", "Math", "ICT", "Physics"]
+    },
+    {
+      "grade": 10,
+      "section": "A",
+      "monday": ["Math", "English", "Civics", "Biology"],
+      "tuesday": ["Physics", "Chemistry", "Math", "ICT"],
+      "wednesday": ["Amharic", "English", "Geography", "PE"],
+      "thursday": ["Math", "Biology", "Civics", "Chemistry"],
+      "friday": ["History", "English", "ICT", "Physics"]
+    },
+    {
+      "grade": 10,
+      "section": "B",
+      "monday": ["Math", "Physics", "Civics", "Chemistry"],
+      "tuesday": ["English", "Biology", "History", "ICT"],
+      "wednesday": ["Geography", "Math", "PE", "Amharic"],
+      "thursday": ["Chemistry", "Physics", "Civics", "English"],
+      "friday": ["History", "Math", "ICT", "Biology"]
+    },
+    {
+      "grade": 11,
+      "section": "A",
+      "monday": ["Math", "Biology", "Civics", "Physics"],
+      "tuesday": ["Chemistry", "English", "Math", "ICT"],
+      "wednesday": ["Geography", "Amharic", "PE", "Biology"],
+      "thursday": ["Math", "Physics", "Civics", "Chemistry"],
+      "friday": ["History", "Math", "English", "ICT"]
+    },
+    {
+      "grade": 11,
+      "section": "B",
+      "monday": ["Math", "Chemistry", "Civics", "Biology"],
+      "tuesday": ["English", "Physics", "History", "ICT"],
+      "wednesday": ["Geography", "Math", "PE", "Amharic"],
+      "thursday": ["Chemistry", "Biology", "Civics", "English"],
+      "friday": ["History", "Math", "ICT", "Physics"]
+    },
+    {
+      "grade": 12,
+      "section": "A",
+      "monday": ["Math", "English", "Civics", "Biology"],
+      "tuesday": ["Physics", "Chemistry", "Math", "ICT"],
+      "wednesday": ["Amharic", "English", "Geography", "PE"],
+      "thursday": ["Math", "Biology", "Civics", "Chemistry"],
+      "friday": ["History", "English", "ICT", "Physics"]
+    },
+    {
+      "grade": 12,
+      "section": "B",
+      "monday": ["Math", "Physics", "Civics", "Chemistry"],
+      "tuesday": ["English", "Biology", "History", "ICT"],
+      "wednesday": ["Geography", "Math", "PE", "Amharic"],
+      "thursday": ["Chemistry", "Physics", "Civics", "English"],
+      "friday": ["History", "Math", "ICT", "Biology"]
+    }
+  ]
+}
