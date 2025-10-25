@@ -1,0 +1,76 @@
+{
+  "schedule": [
+    {
+      "grade": 9,
+      "section": "A",
+      "monday": ["9A-M","9A-M","9A-M","9A-M","9A-M","9A-M","9A-M"],
+      "tuesday": ["9A-T","9A-T","9A-T","9A-T","9A-T","9A-T","9A-T"],
+      "wednesday": ["9A-W","9A-W","9A-W","9A-W","9A-W","9A-W","9A-W"],
+      "thursday": ["9A-TH","9A-TH","9A-TH","9A-TH","9A-TH","9A-TH","9A-TH"],
+      "friday": ["9A-F","9A-F","9A-F","9A-F","9A-F","9A-F","9A-F"]
+    },
+    {
+      "grade": 9,
+      "section": "B",
+      "monday": ["9B-M","9B-M","9B-M","9B-M","9B-M","9B-M","9B-M"],
+      "tuesday": ["9B-T","9B-T","9B-T","9B-T","9B-T","9B-T","9B-T"],
+      "wednesday": ["9B-W","9B-W","9B-W","9B-W","9B-W","9B-W","9B-W"],
+      "thursday": ["9B-TH","9B-TH","9B-TH","9B-TH","9B-TH","9B-TH","9B-TH"],
+      "friday": ["9B-F","9B-F","9B-F","9B-F","9B-F","9B-F","9B-F"]
+    },
+    {
+      "grade": 10,
+      "section": "A",
+      "monday": ["10A-M","10A-M","10A-M","10A-M","10A-M","10A-M","10A-M"],
+      "tuesday": ["10A-T","10A-T","10A-T","10A-T","10A-T","10A-T","10A-T"],
+      "wednesday": ["10A-W","10A-W","10A-W","10A-W","10A-W","10A-W","10A-W"],
+      "thursday": ["10A-TH","10A-TH","10A-TH","10A-TH","10A-TH","10A-TH","10A-TH"],
+      "friday": ["10A-F","10A-F","10A-F","10A-F","10A-F","10A-F","10A-F"]
+    },
+    {
+      "grade": 10,
+      "section": "B",
+      "monday": ["10B-M","10B-M","10B-M","10B-M","10B-M","10B-M","10B-M"],
+      "tuesday": ["10B-T","10B-T","10B-T","10B-T","10B-T","10B-T","10B-T"],
+      "wednesday": ["10B-W","10B-W","10B-W","10B-W","10B-W","10B-W","10B-W"],
+      "thursday": ["10B-TH","10B-TH","10B-TH","10B-TH","10B-TH","10B-TH","10B-TH"],
+      "friday": ["10B-F","10B-F","10B-F","10B-F","10B-F","10B-F","10B-F"]
+    },
+    {
+      "grade": 11,
+      "section": "A",
+      "monday": ["11A-M","11A-M","11A-M","11A-M","11A-M","11A-M","11A-M"],
+      "tuesday": ["11A-T","11A-T","11A-T","11A-T","11A-T","11A-T","11A-T"],
+      "wednesday": ["11A-W","11A-W","11A-W","11A-W","11A-W","11A-W","11A-W"],
+      "thursday": ["11A-TH","11A-TH","11A-TH","11A-TH","11A-TH","11A-TH","11A-TH"],
+      "friday": ["11A-F","11A-F","11A-F","11A-F","11A-F","11A-F","11A-F"]
+    },
+    {
+      "grade": 11,
+      "section": "B",
+      "monday": ["11B-M","11B-M","11B-M","11B-M","11B-M","11B-M","11B-M"],
+      "tuesday": ["11B-T","11B-T","11B-T","11B-T","11B-T","11B-T","11B-T"],
+      "wednesday": ["11B-W","11B-W","11B-W","11B-W","11B-W","11B-W","11B-W"],
+      "thursday": ["11B-TH","11B-TH","11B-TH","11B-TH","11B-TH","11B-TH","11B-TH"],
+      "friday": ["11B-F","11B-F","11B-F","11B-F","11B-F","11B-F","11B-F"]
+    },
+    {
+      "grade": 12,
+      "section": "A",
+      "monday": ["12A-M","12A-M","12A-M","12A-M","12A-M","12A-M","12A-M"],
+      "tuesday": ["12A-T","12A-T","12A-T","12A-T","12A-T","12A-T","12A-T"],
+      "wednesday": ["12A-W","12A-W","12A-W","12A-W","12A-W","12A-W","12A-W"],
+      "thursday": ["12A-TH","12A-TH","12A-TH","12A-TH","12A-TH","12A-TH","12A-TH"],
+      "friday": ["12A-F","12A-F","12A-F","12A-F","12A-F","12A-F","12A-F"]
+    },
+    {
+      "grade": 12,
+      "section": "B",
+      "monday": ["12B-M","12B-M","12B-M","12B-M","12B-M","12B-M","12B-M"],
+      "tuesday": ["12B-T","12B-T","12B-T","12B-T","12B-T","12B-T","12B-T"],
+      "wednesday": ["12B-W","12B-W","12B-W","12B-W","12B-W","12B-W","12B-W"],
+      "thursday": ["12B-TH","12B-TH","12B-TH","12B-TH","12B-TH","12B-TH","12B-TH"],
+      "friday": ["12B-F","12B-F","12B-F","12B-F","12B-F","12B-F","12B-F"]
+    }
+  ]
+}
