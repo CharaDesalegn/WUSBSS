@@ -1,0 +1,23 @@
+{
+  "all": [
+    "School will be closed next Monday for public holiday",
+    "Annual sports day will be held on December 15th",
+    "Parent-teacher meetings scheduled for next week"
+  ],
+  "grade9": [
+    "Grade 9: Science project submission deadline is Friday",
+    "Grade 9: Math remedial classes start tomorrow"
+  ],
+  "grade10": [
+    "Grade 10: Chemistry lab session postponed to Thursday",
+    "Grade 10: English literature test next Monday"
+  ],
+  "grade11": [
+    "Grade 11: Physics practical exam schedule posted",
+    "Grade 11: Biology field trip permission slips due"
+  ],
+  "grade12": [
+    "Grade 12: University application workshop on Saturday",
+    "Grade 12: Final exams begin next month"
+  ]
+}
