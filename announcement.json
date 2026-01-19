@@ -1,0 +1,21 @@
+{
+  "all": [
+    "Final exams will begin next week. All students must prepare accordingly."
+  ],
+  "grade9": [
+    "Grade 9: Math exam will be held this week.",
+    "Grade 9: Biology test is scheduled for this week."
+  ],
+  "grade10": [
+    "Grade 10: Chemistry exam will take place this week.",
+    "Grade 10: Math test is scheduled for this week."
+  ],
+  "grade11": [
+    "Grade 11: Biology exam will be conducted this week.",
+    "Grade 11: Chemistry test is scheduled for this week."
+  ],
+  "grade12": [
+    "Grade 12: Math exam will be held this week.",
+    "Grade 12: Biology test is scheduled for this week."
+  ]
+}
