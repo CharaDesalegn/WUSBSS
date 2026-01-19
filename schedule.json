@@ -1,0 +1,76 @@
+{
+  "schedule": [
+    {
+      "grade": 9,
+      "section": "A",
+      "monday": ["HPE", "Maths", "Chem", "ICT", "Bio", "His", "Phy"],
+      "tuesday": ["A/O", "Phy", "Geo", "Maths", "ICT", "Chem", "Eng"],
+      "wednesday": ["Econ", "Maths", "His", "Phy", "Bio", "Citizenship", "Eng"],
+      "thursday": ["Maths", "A/O", "Geo", "Amh", "Bio", "Eng", "Chem"],
+      "friday": ["His", "Chem", "Econ", "Eng", "Citizenship", "Amh", "Geo"]
+    },
+    {
+      "grade": 9,
+      "section": "B",
+      "monday": ["Maths", "HPE", "His", "Bio", "Chem", "Phy", "ICT"],
+      "tuesday": ["Phy", "A/O", "ICT", "Geo", "Maths", "Eng", "Chem"],
+      "wednesday": ["His", "Econ", "Phy", "Maths", "Eng", "Bio", "Citizenship"],
+      "thursday": ["A/O", "Maths", "Amh", "Geo", "Eng", "Chem", "Bio"],
+      "friday": ["Chem", "His", "Amh", "Econ", "Geo", "Eng", "Citizenship"]
+    },
+    {
+      "grade": 10,
+      "section": "A",
+      "monday": ["Phy", "Maths", "Bio", "Chem", "His", "Eng", "Citzenship"],
+      "tuesday": ["Eng", "Bio", "Maths", "Phy", "Geo", "Econ", "Cliteroship"],
+      "wednesday": ["Chem", "Maths", "A/O", "His", "Amh", "ICT", "Eng"],
+      "thursday": ["Eng", "Geo", "Phy", "Chem", "HPE", "Maths", "His"],
+      "friday": ["Chem", "ICT", "Geo", "Amh", "Bio", "A/O", "Econ"]
+    },
+    {
+      "grade": 10,
+      "section": "B",
+      "monday": ["Maths", "Phys", "Chem", "His", "Eng", "Citzenship", "Bio"],
+      "tuesday": ["Bio", "Eng", "Phy", "Maths", "Cliteroship", "Geo", "Econ"],
+      "wednesday": ["Maths", "Chem", "Eng", "A/O", "His", "Amh", "ICT"],
+      "thursday": ["Geo", "Eng", "Chem", "Maths", "Phy", "His", "HPE"],
+      "friday": ["ICT", "Chem", "Bio", "Geo", "Amh", "Econ", "A/O"]
+    },
+    {
+      "grade": 11,
+      "section": "A",
+      "monday": ["Phys", "Chem", "Maths", "Agr", "Bio", "Eng", "A/O"],
+      "tuesday": ["ICT", "Maths", "Bio", "Phy", "Eng", "A/O", "Chem"],
+      "wednesday": ["Eng", "Phy", "Maths", "Eng", "Chem", "Bio", "Agr"],
+      "thursday": ["Chem", "Phy", "Bio", "ICT", "Maths", "Agr", "Eng"],
+      "friday": ["Phy", "Maths", "Chem", "Maths", "Eng", "Bio", "ICT"]
+    },
+    {
+      "grade": 11,
+      "section": "B",
+      "monday": ["Chem", "Phy", "Maths", "Bio", "Agr", "A/O", "Eng"],
+      "tuesday": ["Maths", "ICT", "Eng", "Bio", "Phy", "Chem", "A/O"],
+      "wednesday": ["Phy", "Eng", "Chem", "Maths", "Eng", "Agr", "Bio"],
+      "thursday": ["Phy", "Chem", "Eng", "Bio", "ICT", "Maths", "Agr"],
+      "friday": ["Maths", "Phy", "Maths", "Chem", "Eng", "ICT", "Bio"]
+    },
+    {
+      "grade": 12,
+      "section": "A",
+      "monday": ["Maths", "Chem", "ICT", "Eng", "Phy", "Bio", "Agr"],
+      "tuesday": ["Phy", "Bio", "Eng", "A/O", "Chem", "Maths", "Agr"],
+      "wednesday": ["Maths", "Phy", "Eng", "ICT", "A/O", "Chem", "Bio"],
+      "thursday": ["Phy", "Eng", "Bio", "Chem", "Maths", "ICT", "Maths"],
+      "friday": ["Eng", "Bio", "Chem","Eng", "Phy", "Maths", "Agr"]
+    },
+    {
+      "grade": 12,
+      "section": "B",
+      "monday": ["Chem", "Maths", "Eng", "Phy", "ICT", "Agr", "Bio"],
+      "tuesday": ["Bio", "Phy", "A/O", "Chem", "Eng", "Agr", "Maths"],
+      "wednesday": ["Phy", "Maths", "Bio", "Eng", "ICT", "A/O", "Chem"],
+      "thursday": ["Eng", "Phy", "Eng", "Bio", "Chem", "Maths", "ICT"],
+      "friday": ["Bio", "Eng", "Phy", "Chem", "Maths", "Agr", "Maths"]
+    }
+  ]
+}
